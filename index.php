@@ -2,6 +2,6 @@
 <head><title>Prueba App Empresariales</title>
 </head>
   <body>
-    <?php echo '<p> Hola app empresariales </p>';?>
+    <?php echo '<p> Hola Julian Trujillo app empresariales </p>';?>
   </body>
 </html>
